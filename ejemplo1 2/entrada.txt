@@ -1,0 +1,3 @@
+AAA bbbb AAAAbbbb
+10
+1.1  1e1 20E-1
